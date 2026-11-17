@@ -1,0 +1,17 @@
+# Python 3.14 course environment; direct dependencies pinned 2026-11-16.
+# Install with: bash .devcontainer/setup.sh
+
+# Notebook environment
+jupyterlab==4.6.6
+ipykernel==7.4.0
+
+# Numerical computing and data
+numpy==2.5.5
+pandas==3.1.1
+scikit-learn==1.9.1
+
+# Visualization
+matplotlib==3.11.2
+
+# Automatic differentiation and neural networks
+torch==2.15.0
